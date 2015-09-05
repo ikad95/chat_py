@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 #use python 3.x for compatibility
 #not tested with python 2.x
 #ikad inc
