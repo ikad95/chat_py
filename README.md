@@ -5,4 +5,4 @@ Uses socket to chat between two computers
 
 THIS IS A FULL DUPLEX 2 PROCESS SERVER-CLIENT PAIR
 RUN THIS SCRIPT ON BOTH PCS, GET IP USING IPCONFIG(windows)/IFCONFIG(linux)
-NOT TESTED ON WINDOWS
+Won't work in windows
